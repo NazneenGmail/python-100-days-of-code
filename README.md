@@ -9,4 +9,9 @@
 **Day 05** - For loop, using range() and code block\
 ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Python Password Generator\
 **Day 06** - User defined function, code blocks and while loop - game Karel\
-**Day 07** - Hangman Game
+**Day 07** - Hangman Game\
+**Day 08** - Functions with Input, Life in weeks, Positional vs Keyward Arguments, True Love Calculator\
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Caesar Cipher\
+**Day 09** - Dictionary and Nesting, Student grades, Nested List and Dictionary\
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Highest Bid\
+**Day 10** - Functions with Output\
